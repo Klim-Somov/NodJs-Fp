@@ -12,6 +12,7 @@
   },
   "author": "Klim_Somov",
   "license": "ISC",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Klim-Somov/NodJs-Fp/issues"
   },
