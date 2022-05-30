@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Klim-Somov/NodJs-Fp#readme",
   "dependencies": {
-    "colors": "^1.4.0"
+    "colors": "^1.4.0",
+    "luxon": "^2.4.0"
   }
 }
