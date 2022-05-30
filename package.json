@@ -1,0 +1,28 @@
+{
+  "name": "nodjs-fp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Klim-Somov/NodJs-Fp.git"
+  },
+  "author": "Klim_Somov",
+  "license": "ISC",
+ 
+  "bugs": {
+    "url": "https://github.com/Klim-Somov/NodJs-Fp/issues"
+  },
+  "homepage": "https://github.com/Klim-Somov/NodJs-Fp#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "file-system": "^2.2.2",
+    "luxon": "^2.4.0",
+    "inquirer": "^8.2.0",
+    "yargs": "^17.3.1"
+  }
+}
