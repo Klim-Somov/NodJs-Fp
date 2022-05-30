@@ -13,7 +13,7 @@
   },
   "author": "Klim_Somov",
   "license": "ISC",
-  "type": "module",
+ 
   "bugs": {
     "url": "https://github.com/Klim-Somov/NodJs-Fp/issues"
   },
@@ -21,6 +21,8 @@
   "dependencies": {
     "colors": "^1.4.0",
     "file-system": "^2.2.2",
-    "luxon": "^2.4.0"
+    "luxon": "^2.4.0",
+    "inquirer": "^8.2.0",
+    "yargs": "^17.3.1"
   }
 }
